@@ -12,7 +12,7 @@
   "dependencies": {
     "expo-contacts": "^7.0.0",
     "react": "16.9.0",
-    "react-native": "0.61.2",
+    "react-native": "0.62.3",
     "react-native-contacts": "^5.0.4",
     "react-native-contacts-sectionlist": "^1.0.2",
     "react-native-elements": "^1.2.6",
